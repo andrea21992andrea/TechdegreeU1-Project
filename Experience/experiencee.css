@@ -156,6 +156,11 @@ object-fit: cover;
     clear: both;
   }
   
+  .responsive-img {
+    width: 100%;
+    height: auto;
+    }
+    
   /* Styles for larger screens */
   @media screen and (min-width: 720px) {
     
@@ -233,10 +238,7 @@ object-fit: cover;
     margin: 10px 0;
   }
 
-  .responsive-img {
-    width: 100%;
-    height: auto;
-    }
+  
 
   }
   
