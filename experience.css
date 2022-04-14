@@ -79,7 +79,7 @@
     transform: scale(5) rotate(360deg);
   }
 
-  .profile-pic {
+  .profile-image {
 object-fit: cover;
   }
 

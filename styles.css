@@ -67,14 +67,24 @@ header {
 #experienceheader {
   text-align: center;
   background: url('IMG/sol.jpg') no-repeat top center ;
-  background-size: 1450px 800px;;
+  background-size: 1450px 800px;
   overflow: hidden;
   padding-top: 60px;
   border: thick ridge pink ;
 }
 
+#nikitabday {
+  text-align: center;
+  background: url('IMG/bdayparty.jpeg') no-repeat top center ;
+  background-size: 1450px 600px;
+  overflow: hidden;
+  padding-top: 60px;
+  border: thick ridge pink ;
+}
 
-
+#cake {
+  color: #ff3388;
+}
 
 header {
   line-height: 1.5;
@@ -91,6 +101,23 @@ header .profile-image:hover {
   transform: scale(2) rotate(360deg);
 }
 
+#bros {
+  color: #ff3388;
+}
+
+.brothers {
+  width: 300px;
+    height: 400px;
+    border: thick solid rgb(243, 163, 239);
+    margin: 10px 0;
+}
+
+.cake {
+  width: 300px;
+    height: 400px;
+    border: thick solid rgb(243, 163, 239);
+    margin: 10px 0;
+}
 
 .profile-image {
   object-fit: cover;
@@ -108,6 +135,12 @@ header .profile-image:hover {
   background-color: rgb(184, 226, 248);
   color: rgb(18, 11, 11);
 }
+
+.paws {
+  background-color: rgb(198, 76, 180);
+  color: rgb(235, 181, 241);
+}
+
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
