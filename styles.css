@@ -73,6 +73,9 @@ header {
   border: thick ridge pink ;
 }
 
+#extra {
+  color:rgb(18, 11, 11)
+}
 #nikitabday {
   text-align: center;
   background: url('IMG/bdayparty.jpeg') no-repeat top center ;
